@@ -1,0 +1,10 @@
+﻿  TA.cpp
+C:\Users\Tema-\Desktop\TA\TA.cpp(40,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\TA\TA.cpp(52,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\TA\TA.cpp(56,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\TA\TA.cpp(58,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\TA\TA.cpp(74,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\TA\TA.cpp(78,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\TA\TA.cpp(80,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Tema-\Desktop\TA\TA.cpp(96,21): warning C4018: <: несоответствие типов со знаком и без знака
+  TA.vcxproj -> C:\Users\Tema-\Desktop\TA\Debug\TA.exe
